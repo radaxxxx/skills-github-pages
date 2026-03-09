@@ -1,5 +1,4 @@
 ---
-title: BEM VINDO ao meu Site!
+title: "Site de Aprendizagem"
+date: 2026-03-09
 ---
-
-<h1>Site de aprendizagem do github skills</h1>
